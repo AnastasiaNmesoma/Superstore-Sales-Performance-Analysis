@@ -20,7 +20,7 @@ This Power BI project explores sales and profit performance across different reg
 > All visualizations, data modeling, and analysis were built from scratch in Power BI.
 
 ## Important Note:
-For full context, including project objectives, & dataset description please refer to the [Project documentation](Documentation:%20Superstore%20Sales%20Performance.md)
+For full context, including project objectives, & dataset description please refer to the [Project documentation](Project%20Documentation.md)
 
 ## Tools Used
 - SQL Server – Data Cleaning, Querying, KPI Computation
@@ -43,7 +43,7 @@ Key tasks included:
 - Renaming poorly labeled columns
 - Performing business-level analysis: sales trends, profit margins, category performance, and regional breakdowns
 
-All SQL queries used in this project are available in the [superstore analysis.sql](superstore%20analysis.sql) file.
+All SQL queries used in this project are available in the [superstore analysis.sql](sql%20queries.sql) file.
 
 ## Analysis Focus Areas
 
